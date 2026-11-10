@@ -1,2 +1,4 @@
 # git_practice
-this is my git practice repository
+This is my git practice repository.
+<br>
+Author-HIBA SULTANA
